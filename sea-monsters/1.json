@@ -1,0 +1,15 @@
+{
+    "image": "https://i.postimg.cc/cLP3S93y/Image-copy.jpg",
+    "description": "NFT Project for Sea Monsters",
+    "external_url": "N/A",
+    "name": "Monster 1",
+    "attributes": [
+      {
+        "trait_type": "Editions",
+        "value": "1 of 4"
+      },
+      {
+        "value": "Squid"
+      }
+    ]
+  }
